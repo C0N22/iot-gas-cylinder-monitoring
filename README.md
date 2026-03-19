@@ -17,3 +17,6 @@ STM32, ESP32, ADC, UART, RF Communication, Wi-Fi, Blynk IoT
 - Low-power embedded system design
 - Wireless communication integration
 - IOT-based monitoring solution
+
+## Note
+This project is presented at a system level to demonstrate functionality and design approach.
